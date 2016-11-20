@@ -142,6 +142,8 @@ body {
 	color: #9a9da4;
 	letter-spacing: 1px;
 	font-family: 'Raleway', sans-serif;
+	font-size: 1.5em;
+
 }
 
 a {
@@ -169,7 +171,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #424652;
+	color:  #9a9da4;
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
@@ -201,7 +203,7 @@ h2 > span:not(.nocolor),
 h3 > span:not(.nocolor),
 h4 > span:not(.nocolor),
 h5 > span:not(.nocolor),
-h6 > span:not(.nocolor) { color: #1ABC9C; }
+h6 > span:not(.nocolor) { color: #9a9da4; }
 
 p,
 pre,
